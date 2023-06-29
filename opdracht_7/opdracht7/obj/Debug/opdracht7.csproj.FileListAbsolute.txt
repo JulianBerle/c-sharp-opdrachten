@@ -1,0 +1,15 @@
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.csproj.AssemblyReference.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.csproj.SuggestedBindingRedirects.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\MainWindow.g.cs
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\App.g.cs
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7_MarkupCompile.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\bin\Debug\opdracht7.exe.config
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\bin\Debug\opdracht7.exe
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\bin\Debug\opdracht7.pdb
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\MainWindow.baml
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.g.resources
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.Properties.Resources.resources
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.csproj.GenerateResource.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.csproj.CoreCompileInputs.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.exe
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_7\opdracht7\obj\Debug\opdracht7.pdb

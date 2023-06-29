@@ -1,0 +1,15 @@
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\bin\Debug\net6.0\opdracht_3.exe
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\bin\Debug\net6.0\opdracht_3.deps.json
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\bin\Debug\net6.0\opdracht_3.runtimeconfig.json
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\bin\Debug\net6.0\opdracht_3.dll
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\bin\Debug\net6.0\opdracht_3.pdb
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.csproj.AssemblyReference.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.AssemblyInfoInputs.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.AssemblyInfo.cs
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.csproj.CoreCompileInputs.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.dll
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\refint\opdracht_3.dll
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.pdb
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\opdracht_3.genruntimeconfig.cache
+C:\Users\berle\OneDrive - ROC Midden Nederland\jaar 1\periode 4\C# opdrachten\c# opdrachten\opdracht_1\opdracht_3\opdracht_3\opdracht_3\obj\Debug\net6.0\ref\opdracht_3.dll
